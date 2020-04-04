@@ -1,4 +1,6 @@
+
 int b;
+
 #include <cctype>
 #include <cstdlib>
 #include <cstring>
