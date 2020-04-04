@@ -1,4 +1,4 @@
-//testtsetset
+int a;
 #include <cctype>
 #include <cstdlib>
 #include <cstring>
