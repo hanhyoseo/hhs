@@ -1,4 +1,4 @@
-int a;
+
 #include <cctype>
 #include <cstdlib>
 #include <cstring>
@@ -6,7 +6,7 @@ int a;
 #include <stack>
 #include <vector>
 using namespace std;
-int b;
+
 int priority(int op)
 {
 	switch (op)
