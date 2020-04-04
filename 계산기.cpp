@@ -1,4 +1,4 @@
-//testtsetset
+
 #include <cctype>
 #include <cstdlib>
 #include <cstring>
@@ -6,7 +6,7 @@
 #include <stack>
 #include <vector>
 using namespace std;
-//hi hello
+
 int priority(int op)
 {
 	switch (op)
