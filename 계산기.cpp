@@ -1,5 +1,4 @@
-modify
-asdf
+
 #include <cctype>
 #include <cstdlib>
 #include <cstring>
@@ -7,7 +6,7 @@ asdf
 #include <stack>
 #include <vector>
 using namespace std;
-aaaaaa
+
 int priority(int op)
 {
 	switch (op)
