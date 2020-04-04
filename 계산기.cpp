@@ -1,4 +1,3 @@
-int a;
 
 #include <cctype>
 #include <cstdlib>
